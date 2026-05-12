@@ -1,7 +1,7 @@
 **AI-Native Solutions Architect & Engineering Manager**
 *Building the AI-native enterprise — strategy, architecture, code.*
 
-Luxembourg · [linkedin.com/in/sergiytabolin](https://linkedin.com/in/sergiytabolin)
+Luxembourg · [linkedin](https://linkedin.com/in/sergiytabolin)
 
 ---
 
