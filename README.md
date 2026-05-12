@@ -5,11 +5,13 @@ Luxembourg · [linkedin](https://linkedin.com/in/sergiytabolin)
 ---
 
 Architect-engineer at the intersection of AI, automation, and operations. I build the systems executive teams talk about — and the engineering teams actually run.
+
 Background bridges nearly eight years in banking, audit, and technology risk with nearly five years shipping enterprise automation on the Microsoft + Azure stack, with AI woven in wherever it earns its place: Azure OpenAI, Anthropic Claude, Azure Document Intelligence, custom MCP servers, retrieval-augmented prompts.
+
 Today leading the business-solutions function at a Luxembourg-based group with multi-entity, multi-currency, multi-jurisdiction operations.
+
 Curious by trade. Polymath by design.
 
----
 ### Currently
 - **Multi-tier AI extraction pipelines** for high-stakes financial workflows — engineered so no single model is a single point of failure.
 - **Power Platform + Azure solutions** built with the same rigour as any other production code (source-controlled, tested, reviewed).
